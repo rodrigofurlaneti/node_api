@@ -6,6 +6,5 @@
 ## API
 
 ```javascript
-function test() {
-	console.log("Rodrigo Luiz Madeira Furlaneti!");
-}
+Rodrigo Luiz Madeira Furlaneti
+
