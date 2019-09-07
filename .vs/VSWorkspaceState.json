@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\.docker",
-    "\\src"
+    "\\src",
+    "\\src\\controllers",
+    "\\src\\models"
   ],
-  "SelectedNode": "\\src",
+  "SelectedNode": "\\src\\controllers\\UsuarioController.js",
   "PreviewInSolutionExplorer": true
 }

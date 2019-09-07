@@ -14,6 +14,10 @@ const UsuarioSchema = new mongoose.Schema({
         type: String,
         required: true,
     },
+    url: {
+        type: String,
+        required: true,
+    },
 });
 UsuarioSchema.plugin(mongoosePaginate);
 mongoose.model('Usuario', UsuarioSchema);
