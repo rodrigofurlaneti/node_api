@@ -7,11 +7,12 @@ const UsuarioSchema = new mongoose.Schema({
     },
     senha: {
         type: String,
+        min: [6, 'Minimo 6'],
         required: true,
-        min: 6,
     },
     cpf: {
         type: String,
+        max: [11, 'Maximo 11'],
         required: true,
     },
     url: {

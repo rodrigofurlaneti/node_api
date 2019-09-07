@@ -6,6 +6,6 @@
     "\\src\\controllers",
     "\\src\\models"
   ],
-  "SelectedNode": "\\src\\controllers\\UsuarioController.js",
+  "SelectedNode": "\\src\\models\\Usuario.js",
   "PreviewInSolutionExplorer": true
 }
